@@ -1,0 +1,7 @@
+.img_cont{
+    width: 300px;
+    height: auto;
+}
+.img_cont img{
+    width: 100%;
+}
